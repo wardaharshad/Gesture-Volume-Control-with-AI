@@ -4,7 +4,9 @@ Artificial Intelligence - Computer Vision
 # Hands Detection using Mediapipe Solutions
 
 Libraries installed:
-
 pip install mediapipe
+pip install pycaw
 
-https://google.github.io/mediapipe/solutions/hands
+Mediapipe Hands Solution link: https://google.github.io/mediapipe/solutions/hands
+
+Pycaw Link: https://github.com/AndreMiras/pycaw
